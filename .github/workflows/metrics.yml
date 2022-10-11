@@ -27,7 +27,7 @@ jobs:
           # base
           base: header, activity, community, repositories, metadata
           repositories_forks: no
-          repositories_affiliations: owner
+          repositories_affiliations: owner, organization_member
           repositories_skipped: shadycuz/shadycuz
 
           # The isocalendar plugin displays an isometric view of your commits calendar, along with a few additional stats like current streak and commit average per day.
